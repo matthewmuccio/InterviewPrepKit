@@ -2,7 +2,7 @@ InterviewPrepKit
 ================
 HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-).
 
-- [ ] Arrays (1/5)
+- [ ] Arrays (2/5)
   - [x] 2D Array - DS
   - [x] Arrays: Left Rotation
   - [ ] New Year Chaos
