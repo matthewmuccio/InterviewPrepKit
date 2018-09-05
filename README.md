@@ -8,11 +8,11 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] New Year Chaos
   - [x] Minimum Swaps 2
   - [x] Array Manipulation
-- [ ] Dictionaries and Hashmaps (2/5)
+- [ ] Dictionaries and Hashmaps (3/5)
   - [ ] Hash Tables: Ransom Note
   - [x] Two Strings
   - [x] Sherlock and Anagrams
-  - [ ] Count Triplets
+  - [x] Count Triplets
   - [ ] Frequency Queries
 - [ ] Sorting
 - [ ] String Manipulation
