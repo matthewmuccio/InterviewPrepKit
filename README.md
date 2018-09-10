@@ -14,8 +14,8 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Sherlock and Anagrams
   - [x] Count Triplets
   - [x] Frequency Queries
-- [ ] Sorting (0/5)
-  - [ ] Sorting: Bubble Sort
+- [ ] Sorting (1/5)
+  - [x] Sorting: Bubble Sort
   - [ ] Mark and Toys
   - [ ] Sorting: Comparator
   - [ ] Fraudulent Activity Notifications
