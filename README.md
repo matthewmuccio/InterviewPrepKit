@@ -20,7 +20,12 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Sorting: Comparator
   - [x] Fraudulent Activity Notifications
   - [x] Merge Sort: Counting Inversions
-- [ ] String Manipulation
+- [ ] String Manipulation (0/5)
+  - [ ] Strings: Making Anagrams
+  - [ ] Alternating Characters
+  - [ ] Sherlock and the Valid String
+  - [ ] Special Palindrome Again
+  - [ ] Common Child
 - [ ] Greedy Algorithms
 - [ ] Search
 - [ ] Dynamic Programming
