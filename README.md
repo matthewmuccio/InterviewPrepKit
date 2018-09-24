@@ -26,12 +26,12 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Sherlock and the Valid String
   - [x] Special Palindrome Again
   - [x] Common Child
-- [ ] Greedy Algorithms (4/5)
+- [x] Greedy Algorithms (5/5)
   - [x] Minimum Absolute Difference in an Array
   - [x] Luck Balance
   - [x] Greedy Florist
   - [x] Max Min
-  - [ ] Reverse Shuffle Merge
+  - [x] Reverse Shuffle Merge
 - [ ] Search
 - [ ] Dynamic Programming
 - [ ] Stacks and Queues
