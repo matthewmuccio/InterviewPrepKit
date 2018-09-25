@@ -33,6 +33,13 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Max Min
   - [x] Reverse Shuffle Merge
 - [ ] Search
+  - [ ] Hash Tables: Ice Cream Parlor
+  - [ ] Swap Nodes [Algo]
+  - [ ] Pairs
+  - [ ] Triple Sum
+  - [ ] Minimum Time Required
+  - [ ] Maximum Subarray Sum
+  - [ ] Making Candies
 - [ ] Dynamic Programming
 - [ ] Stacks and Queues
 - [ ] Graphs
