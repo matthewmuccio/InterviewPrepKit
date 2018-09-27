@@ -3,14 +3,20 @@
 
 # Complete the whatFlavors function below.
 def whatFlavors(cost, money):
-    m = []
-    for pos in range(len(cost)):
-        f1 = cost[pos]
-        f2 = money - f1
-        if f2 in m:
-            print(cost.index(f2) + 1, pos + 1)
-        else:
-            m.append(f1)
+    sorted_costs = sorted((c, i) for i, c in enumerate(cost, start=1))
+    low = 0
+    high = len(sorted_costs) - 1
+    pair = None
+    while (low < high):
+        sums = sorted_costs[low][0] + sorted_costs[high][0]
+        if sums == money:
+            pair = sorted_costs[low][1], sorted_costs[high][1]
+            break
+        elif sums < money:
+            low += 1
+        elif sums > money:
+            high -= 1
+    print(" ".join(map(str, sorted(pair))))
 
 
 if __name__ == "__main__":
