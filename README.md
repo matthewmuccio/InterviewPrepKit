@@ -32,14 +32,14 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Greedy Florist
   - [x] Max Min
   - [x] Reverse Shuffle Merge
-- [ ] Search (5/7)
+- [ ] Search (6/7)
   - [x] Hash Tables: Ice Cream Parlor
   - [ ] Swap Nodes [Algo]
   - [x] Pairs
   - [x] Triple Sum
   - [x] Minimum Time Required
   - [x] Maximum Subarray Sum
-  - [ ] Making Candies
+  - [x] Making Candies
 - [ ] Dynamic Programming
 - [ ] Stacks and Queues
 - [ ] Graphs
