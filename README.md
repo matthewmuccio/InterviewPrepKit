@@ -40,10 +40,10 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Minimum Time Required
   - [x] Maximum Subarray Sum
   - [x] Making Candies
-- [ ] Dynamic Programming (2/4)
+- [ ] Dynamic Programming (3/4)
   - [x] Max Array Sum
   - [x] Abbreviation
-  - [ ] Candies
+  - [x] Candies
   - [ ] Decibinary Numbers
 - [ ] Stacks and Queues
 - [ ] Graphs
