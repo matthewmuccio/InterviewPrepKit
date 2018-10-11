@@ -45,8 +45,8 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Abbreviation
   - [x] Candies
   - [ ] Decibinary Numbers
-- [ ] Stacks and Queues (0/6)
-  - [ ] Balanced Brackets
+- [ ] Stacks and Queues (1/6)
+  - [x] Balanced Brackets
   - [ ] Queues: A Tale of Two Stacks
   - [ ] Largest Rectangle
   - [ ] Min Max Riddle
