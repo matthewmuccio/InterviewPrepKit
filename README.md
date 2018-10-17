@@ -45,13 +45,13 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Abbreviation
   - [x] Candies
   - [ ] Decibinary Numbers
-- [ ] Stacks and Queues (5/6)
+- [x] Stacks and Queues (6/6)
   - [x] Balanced Brackets
   - [x] Queues: A Tale of Two Stacks
   - [x] Largest Rectangle
   - [x] Min Max Riddle
   - [x] Castle on the Grid
-  - [ ] Poisonous Plants
+  - [x] Poisonous Plants
 - [ ] Graphs
 - [ ] Trees
 - [ ] Linked Lists
