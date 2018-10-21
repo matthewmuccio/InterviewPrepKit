@@ -53,10 +53,10 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Castle on the Grid
   - [x] Poisonous Plants
 - [ ] Graphs
-- [ ] Trees (2/5)
+- [ ] Trees (3/5)
   - [x] Tree: Height of a Binary Tree
   - [x] Binary Search Tree: Lowest Common Ancestor
-  - [ ] Tree: Is This s Binary Search Tree?
+  - [x] Tree: Is This s Binary Search Tree?
   - [ ] Tree: Huffman Decoding
   - [ ] Balanced Forest
 - [ ] Linked Lists
