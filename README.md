@@ -56,7 +56,7 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
 - [ ] Trees (4/5)
   - [x] Tree: Height of a Binary Tree
   - [x] Binary Search Tree: Lowest Common Ancestor
-  - [x] Tree: Is This s Binary Search Tree?
+  - [x] Tree: Is This a Binary Search Tree?
   - [x] Tree: Huffman Decoding
   - [ ] Balanced Forest
 - [ ] Linked Lists
