@@ -52,8 +52,8 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Min Max Riddle
   - [x] Castle on the Grid
   - [x] Poisonous Plants
-- [ ] Graphs (2/5)
-  - [ ] Roads and Libraries
+- [ ] Graphs (3/5)
+  - [x] Roads and Libraries
   - [ ] Find the nearest clone
   - [x] BFS: Shortest Reach in a Graph
   - [x] DFS: Connected Cell in a Grid
