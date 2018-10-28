@@ -64,10 +64,10 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Tree: Is This a Binary Search Tree?
   - [x] Tree: Huffman Decoding
   - [ ] Balanced Forest
-- [ ] Linked Lists (1/5)
+- [ ] Linked Lists (2/5)
   - [ ] Insert a node at a specific position in a linked list
   - [x] Inserting a Node Into a Sorted Doubly Linked List
-  - [ ] Reverse a doubly linked list
+  - [x] Reverse a doubly linked list
   - [ ] Find Merge Point of Two Lists
   - [ ] Linked Lists: Detect a Cycle
 - [ ] Recursion and Backtracking
