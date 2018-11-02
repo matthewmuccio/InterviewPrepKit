@@ -70,9 +70,9 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Reverse a doubly linked list
   - [ ] Find Merge Point of Two Lists
   - [x] Linked Lists: Detect a Cycle
-- [ ] Recursion and Backtracking (2/4)
+- [ ] Recursion and Backtracking (3/4)
   - [x] Recursion: Fibonacci Numbers
   - [x] Recursion: Davis' Staircase
-  - [ ] Crossword Puzzle
+  - [x] Crossword Puzzle
   - [ ] Recursive Digit Sum
 - [ ] Miscellaneous
