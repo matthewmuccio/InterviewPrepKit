@@ -75,8 +75,8 @@ HackerRank Interview Preparation Kit Exercises written in Python 3 (August 2018-
   - [x] Recursion: Davis' Staircase
   - [x] Crossword Puzzle
   - [x] Recursive Digit Sum
-- [ ] Miscellaneous (2/4)
+- [ ] Miscellaneous (3/4)
   - [x] Flipping bits
   - [x] Time Complexity: Primality
-  - [ ] Friend Circle Queries
+  - [x] Friend Circle Queries
   - [ ] Maximum Xor
